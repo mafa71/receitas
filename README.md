@@ -2,6 +2,6 @@
 
 Cozinhe direito.
 
-Zé Fini
+Zé Fini.
 
 Piriri e Pororó
