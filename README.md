@@ -1,5 +1,5 @@
-## LEIA ANTES DE COZINHAR
-
-Cozinhe direito.
-
-Zé Fini.
+>>>>>>> ## LEIA ANTES DE COZINHAR
+>>>>>>>
+>>>>>>> Cozinhe direito.
+>>>>>>> Zé Fini.
+>>>>>>> Piriri e Pororó
