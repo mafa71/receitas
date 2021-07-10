@@ -4,4 +4,4 @@ Cozinhe direito.
 
 Zé Fini
 
-Piriri e Pororó
+Piriri e Pororó.
